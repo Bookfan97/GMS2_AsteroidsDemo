@@ -127,11 +127,27 @@
             }
         },
         {
+            "Key": "93e9857e-f017-4eb7-9be9-69adf7bf26a4",
+            "Value": {
+                "id": "20f267f7-2a9b-4928-9966-535243056924",
+                "resourcePath": "sprites\\spr_debris\\spr_debris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "2aec036a-36ed-4c41-a44f-334b27a072c2",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab28bc3d-1110-4422-aef3-e6b86461a1e7",
+            "Value": {
+                "id": "6fc63623-dd23-4ce1-9d06-703b60f3575c",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +180,14 @@
                 "id": "fd1b4025-87f9-43bc-bc6f-940ab47fa382",
                 "resourcePath": "views\\c1c3cf5b-e9bb-46ed-926d-8d4d9da9f13f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c8702042-0c12-47f1-af96-c4f1ed81b79e",
+            "Value": {
+                "id": "67f4b810-48f4-4bf6-a768-656cfd3b0a98",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -236,6 +260,14 @@
                 "id": "064628a4-6c71-4f81-b319-935a8c73839c",
                 "resourcePath": "views\\f6f50aa0-1a57-4c29-8fe2-a294c71d0711.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa257377-fe19-4ca5-9886-e1470879cdcd",
+            "Value": {
+                "id": "882b1bc3-130d-440f-8e55-bca07a22d875",
+                "resourcePath": "objects\\obj_debris\\obj_debris.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
