@@ -12,9 +12,11 @@ switch(room){
 		draw_text(room_width/2, 200, 
 		@"SCORE 1,000 POINTS TO WIN
 		
-		UP:					  MOVE
-		LEFT/RIGHT:		DIRECTIONS
-		SPACE:				 SHOOT
+		
+		 UP:                  MOVE
+		 LEFT/RIGHT:    DIRECTIONS
+		 SPACE:              SHOOT
+		
 		
 		>> PRESS ENTER TO START <<
 		");
@@ -31,7 +33,7 @@ switch(room){
 		break;
 	case rm_GameOver:
 		draw_set_halign(fa_center);
-		var color = c_lime;
+		var color = c_red;
 		draw_text_transformed_color(room_width/2, 100, "GAME OVER", 
 		3, 3, 0, color, color, color, color, 1
 		);
